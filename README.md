@@ -9,12 +9,22 @@
 | 项目 | 一句话 | |
 |---|---|---|
 | [**video2text**](https://github.com/jiashuaiLu/video2text) | 抖音 / B 站 / 本地视频 → 带标点、分段、术语纠错的中文文稿。全本地 Qwen3-ASR，可选接自己的大模型 | 🆕 |
-| [**opencc**](https://github.com/jiashuaiLu/opencc) | Claude Code 的本地代理与管理工具，让任意兼容 Chat/Anthropic 规范的大模型都能跑完整 Claude Code 体验 | ★38 |
+| [**opencc**](https://github.com/jiashuaiLu/opencc) | Claude Code / Codex 双端本地代理与管理工具，三协议互转，让任意兼容大模型都能跑完整体验 | ★38 |
 | [**timelayer**](https://github.com/jiashuaiLu/timelayer) | 时间街道：输入一个地址，看见这条街过去一百年的痕迹——旧地图、建筑变迁、档案纸条 | 🌱 |
 | [**ratelimit**](https://github.com/jiashuaiLu/ratelimit) | Gin 框架的限流中间件（Go） | |
 | [**toutiao**](https://github.com/jiashuaiLu/toutiao) | 智能技术文章推荐：LLM 排序 + 飞书推送 | |
 
 还有一个没公开的：**拾光 · 个人创作工作台**，围绕账号定位做选题、成稿、平台改编和发布准备的本地创作台。
+
+---
+
+#### 参与的贡献
+
+[**ping-island**](https://github.com/erha19/ping-island) ★1.1k — macOS 刘海区的 AI 会话指挥中心
+
+- [#228](https://github.com/erha19/ping-island/pull/228) 让使用第三方 API 的 Codex 会话恢复文件监听
+- [#219](https://github.com/erha19/ping-island/pull/219) 支持把浮动宠物拖回刘海区重新吸附
+
 
 ---
 
